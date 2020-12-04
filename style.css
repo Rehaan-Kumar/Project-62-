@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+.images {
+    width: 325px;
+    height: 300px;
+}
+
+#gif {
+    width:700px;
+    height:700px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+   display: flex;
+   justify-content: center; 
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 40px;
+    font-style: italic;
+    color: red;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 45px;
+    color: darkmagenta;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: left;
+}
+
+#myCarousel {
+    background-color: lightcoral;
+    height: 450px;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    color: white;
+    text-decoration: underline;
+}
+
+.container {
+    background-color: bisque;
+}
